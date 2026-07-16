@@ -31,7 +31,7 @@ The dataset used is **sample/practice data**, created for learning and demonstra
 
 ## 🖼️ Dashboard Preview
 
-<img width="900" alt="Screenshot 2026-07-11 181356" src="https://github.com/user-attachments/assets/45759b08-6902-4210-a0cf-8cbd1ae158c1" />
+<img width="1918" height="1013" alt="Screenshot 2026-07-14 153340" src="https://github.com/user-attachments/assets/d0b6311f-fd94-4d95-a613-887466bdbd76" />
 
 <table>
   <tr>
